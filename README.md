@@ -9,9 +9,9 @@ Neuroscientist who loves producing and analyzing complex biology datasets.
 | Project | What it does |
 |---|---|
 | [**Dendrite Garden**](https://github.com/GSNautilus/dendrite-garden) · [live](https://gsnautilus.github.io/dendrite-garden/) | Interactive visual neuron simulator. |
-| [**Ammonite**](https://github.com/GSNautilus/ammonite) · [site](https://gsnautilus.github.io/ammonite/) · [video](https://www.youtube.com/watch?v=P9rL6J5dxLI) | A family of arpeggiators that stay in rhythm and key, with strong visuals. |
 | [**scAnimator**](https://github.com/GSNautilus/scAnimator) · [live](https://gsnautilus.github.io/scAnimator/) | Rich 3D viewer and animator for scRNA-seq datasets. |
 | [**Dominion**](https://github.com/GSNautilus/Dominion) | Analysis tool for cell morphology and tissue domains. |
+| [**Ammonite**](https://github.com/GSNautilus/ammonite) · [site](https://gsnautilus.github.io/ammonite/) · [video](https://www.youtube.com/watch?v=P9rL6J5dxLI) | A family of arpeggiators that stay in rhythm and key, with strong visuals. |
 
 ## Image analysis and microscopy
 
