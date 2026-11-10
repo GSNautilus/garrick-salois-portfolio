@@ -32,10 +32,10 @@ Neuroscientist who loves producing and analyzing complex biology datasets.
 
 | Project | What it does |
 |---|---|
-| **Maelstrom** (not public yet) · [video](https://www.youtube.com/watch?v=VWAaw08anTU) | Top-down fantasy action RPG where all the art is built by code. |
-| [**IdleSpace**](https://github.com/GSNautilus/Idlespace) · [play](https://gsnautilus.github.io/Idlespace/) | Idle space 4X card game. |
-| [**TaskFlow**](https://github.com/GSNautilus/taskflow) · [live](https://gsnautilus.github.io/taskflow/) | Single-file task manager. |
 | [**badcat-ZIB**](https://github.com/GSNautilus/badcat-ZIB) | Style adapter for the Z-Image image-generation model. |
+| [**TaskFlow**](https://github.com/GSNautilus/taskflow) · [live](https://gsnautilus.github.io/taskflow/) | Single-file task manager. |
+| [**IdleSpace**](https://github.com/GSNautilus/Idlespace) · [play](https://gsnautilus.github.io/Idlespace/) | Idle space 4X card game. |
+| **Maelstrom** (not public yet) · [video](https://www.youtube.com/watch?v=VWAaw08anTU) | Top-down fantasy action RPG where all the art is built by code. |
 
 ## Contact
 
