@@ -2,6 +2,8 @@
 
 Neuroscientist who loves producing and analyzing complex biology datasets.
 
+**Portfolio site: https://gsnautilus.github.io/**
+
 ## Featured
 
 | Project | What it does |
